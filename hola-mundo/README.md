@@ -1,3 +1,10 @@
+
+## ------------------
+    Esto es un proyecto-prueba para aprender el uso principal de react.
+## ------------------
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
